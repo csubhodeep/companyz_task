@@ -1,0 +1,8 @@
+-r requirements.txt
+ipywidgets
+jupyter
+ipykernel
+jupyterlab
+matplotlib
+optuna
+plotly
